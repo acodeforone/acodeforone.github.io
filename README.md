@@ -1,43 +1,61 @@
-# Chirpy Starter
+# thecoffeeandkeyboard.com – Portfolio & Lessons from the Data Trench
 
-[![Gem Version](https://img.shields.io/gem/v/jekyll-theme-chirpy)][gem]&nbsp;
-[![GitHub license](https://img.shields.io/github/license/cotes2020/chirpy-starter.svg?color=blue)][mit]
+Welcome to the source code of my personal website, hosted at [acodeforone.github.io](https://acodeforone.github.io) and mapped to [thecoffeeandkeyboard.com](https://thecoffeeandkeyboard.com).
 
-When installing the [**Chirpy**][chirpy] theme through [RubyGems.org][gem], Jekyll can only read files in the folders
-`_data`, `_layouts`, `_includes`, `_sass` and `assets`, as well as a small part of options of the `_config.yml` file
-from the theme's gem. If you have ever installed this theme gem, you can use the command
-`bundle info --path jekyll-theme-chirpy` to locate these files.
+This site serves as both a **technical portfolio** and a **public journal**, documenting real-world lessons from building data infrastructure, observability platforms, and AI-enhanced tools in production environments — especially in the context of **core banking systems**, **AIOps**, and **low-resource NLP deployments**.
 
-The Jekyll team claims that this is to leave the ball in the user’s court, but this also results in users not being
-able to enjoy the out-of-the-box experience when using feature-rich themes.
+---
 
-To fully use all the features of **Chirpy**, you need to copy the other critical files from the theme's gem to your
-Jekyll site. The following is a list of targets:
+## 🧰 Tech Stack
 
-```shell
-.
-├── _config.yml
-├── _plugins
-├── _tabs
-└── index.html
-```
+This website is powered by:
 
-To save you time, and also in case you lose some files while copying, we extract those files/configurations of the
-latest version of the **Chirpy** theme and the [CD][CD] workflow to here, so that you can start writing in minutes.
+- **[Jekyll](https://jekyllrb.com/)** static site generator
+- **[Chirpy Theme](https://github.com/cotes2020/chirpy)** for a modern developer blog layout
+- **GitHub Pages** + **GitHub Actions** for CI/CD
+- Markdown for posts, YAML for configs
 
-## Usage
+---
 
-Check out the [theme's docs](https://github.com/cotes2020/jekyll-theme-chirpy/wiki).
+## 🎯 Key Sections
 
-## Contributing
+- [`/about`](https://acodeforone.github.io/about/) – My background, projects, and focus
+- [`/posts`](https://acodeforone.github.io/posts/) – Articles, case studies, and lessons learned
+- Coming soon:
+  - Project demos for AI-enhanced observability tools
+  - Lightweight MLOps pipeline examples for small teams
+  - Technical writeups on semantic search, GT.M logging, and incident correlation
 
-This repository is automatically updated with new releases from the theme repository. If you encounter any issues or want to contribute to its improvement, please visit the [theme repository][chirpy] to provide feedback.
+---
 
-## License
+## 👨‍💻 Author
 
-This work is published under [MIT][mit] License.
+**Keerati Pakakasama**  
+Data Engineer | Observability Specialist | AI Practitioner  
+[LinkedIn](https://www.linkedin.com/in/keerati-pakakasama) · [GitHub](https://github.com/acodeforone)
 
-[gem]: https://rubygems.org/gems/jekyll-theme-chirpy
-[chirpy]: https://github.com/cotes2020/jekyll-theme-chirpy/
-[CD]: https://en.wikipedia.org/wiki/Continuous_deployment
-[mit]: https://github.com/cotes2020/chirpy-starter/blob/master/LICENSE
+I currently work in **core banking system observability**, supporting **PROFILE Core Banking (FIS)** on **AIX/GT.M**, while building AI-driven tools to improve system insight and support response times.
+
+---
+
+## 📖 License
+
+- Blog content and writings: **[CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)**
+- Code and configuration (except theme): **MIT License**
+- Theme: [Chirpy by @cotes2020](https://github.com/cotes2020/chirpy)
+
+See [LICENSE](LICENSE) and [CNAME](CNAME) for details.
+
+---
+
+## 📬 Contributions
+
+This is a personal showcase and not open for external contributions at the moment. However, you're welcome to explore, fork, and adapt for your own learning or site setup.
+
+If you'd like to discuss observability, small-data NLP, or local-first LLMs — feel free to reach out.
+
+---
+
+
+
+
