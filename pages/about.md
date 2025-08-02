@@ -1,76 +1,58 @@
----
-layout: page
-title: "About Me"
-permalink: /about/
----
+# thecoffeeandkeyboard.com ? Portfolio & Lessons from the Data Trench
 
-# 👋 Hi, I’m Keerati (Tee)
+Welcome to the source code of my personal website, hosted at [acodeforone.github.io](https://acodeforone.github.io) and mapped to [thecoffeeandkeyboard.com](https://thecoffeeandkeyboard.com).
 
-I’m a **Data Engineer** specializing in **observability**, **incident analysis**, and **AI-assisted workflows** — currently working with **PROFILE Core Banking System** on **AIX/GT.M** infrastructure at one of Thailand’s leading banks.
-=======
-
-I’m a **Data Engineer** specializing in **observability**, **incident analysis**, and **AI-assisted workflows** — currently working with **PROFILE Core Banking System** on **AIX/GT.M** infrastructure at one of Thailand’s leading banks.
-
-By day, I build scalable log pipelines, metrics collectors, and dashboards using tools like **Filebeat, Logstash, Elasticsearch, Grafana**, and **Kibana**.
-
-By night, I experiment with **LLM-powered systems**, **MLOps**, and build prototypes that blend AI with system telemetry, using tools like:
-
-- 🧠 **ChromaDB / Qdrant** + **LangChain**
-- 🔍 **Multilingual embeddings** (Thai, Chinese, English)
-- 🛠️ Lightweight deployment with **Llama.cpp**, **Typhoon**, and **FastAPI**
+This site serves as both a **technical portfolio** and a **public journal**, documenting real-world lessons from building data infrastructure, observability platforms, and AI-enhanced tools in production environments ? especially in the context of **core banking systems**, **AIOps**, and **low-resource NLP deployments**.
 
 ---
 
-## 🎯 Purpose of This Site
+## ? Tech Stack
 
-This website is both a **journal** and a **public portfolio**:
-- ✅ To document lessons learned from the "data trench"
-- ✅ To share my experiments and design ideas in AI + observability
-- ✅ To showcase working demos and open-source tools
-- ✅ To reflect on the *pain and joy* of working with imperfect data
+This website is powered by:
 
----
-
-## 🧪 Areas I Write About
-
-- Incident-to-metric correlation in real-time systems  
-- AIOps strategies for legacy platforms  
-- Semantic search and vector embedding tricks  
-- MLOps design for small data realities  
-- Observability engineering in high-stakes infrastructure  
+- **[Jekyll](https://jekyllrb.com/)** static site generator
+- **[Chirpy Theme](https://github.com/cotes2020/chirpy)** for a modern developer blog layout
+- **GitHub Pages** + **GitHub Actions** for CI/CD
+- Markdown for posts, YAML for configs
 
 ---
 
-## 🧰 Tech I Frequently Use
+## ? Key Sections
 
-| Category         | Tools & Frameworks |
-|------------------|--------------------|
-| Observability    | Filebeat, Logstash, Elasticsearch, Grafana |
-| AI/NLP           | LangChain, ChromaDB, Llama.cpp, Ollama |
-| Deployment       | Docker, FastAPI, Streamlit, Rocky Linux |
-| Core Systems     | PROFILE Core Banking (FIS), AIX, GT.M |
-| Language Support | Thai, Chinese-English, mixed NLP processing |
-
----
-
-## 🗒️ Personal Notes
-
-- Pen name for fiction: **Little Lantern** 🌙  
-- Writing passion: **fantasy, trauma, healing, redemption**
-- Side interests: journaling, survival skills, tutoring my kid in math
+- [`/about`](https://acodeforone.github.io/about/) ? My background, projects, and focus
+- [`/posts`](https://acodeforone.github.io/posts/) ? Articles, case studies, and lessons learned
+- Coming soon:
+  - Project demos for AI-enhanced observability tools
+  - Lightweight MLOps pipeline examples for small teams
+  - Technical writeups on semantic search, GT.M logging, and incident correlation
 
 ---
 
-## 📬 Contact
+## ?? Author
 
-Feel free to connect with me on:
+**Keerati Pakakasama**  
+Data Engineer | Observability Specialist | AI Practitioner  
+[LinkedIn](https://www.linkedin.com/in/keerati-pakakasama) � [GitHub](https://github.com/acodeforone)
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/keerati-pakakasama)
-- 📜 [GitHub](https://github.com/acodeforone)
-- 📝 Blog articles on this site (see `/posts/`)
+I currently work in **core banking system observability**, supporting **PROFILE Core Banking (FIS)** on **AIX/GT.M**, while building AI-driven tools to improve system insight and support response times.
 
 ---
 
-Thanks for visiting.  
-Let’s build things that matter — even when the data hurts.
+## ? License
+
+- Blog content and writings: **[CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)**
+- Code and configuration (except theme): **MIT License**
+- Theme: [Chirpy by @cotes2020](https://github.com/cotes2020/chirpy)
+
+See [LICENSE](LICENSE) and [CNAME](CNAME) for details.
+
+---
+
+## ? Contributions
+
+This is a personal showcase and not open for external contributions at the moment. However, you're welcome to explore, fork, and adapt for your own learning or site setup.
+
+If you'd like to discuss observability, small-data NLP, or local-first LLMs ? feel free to reach out.
+
+---
 
