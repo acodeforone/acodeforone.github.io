@@ -7,6 +7,9 @@ permalink: /about/
 # 👋 Hi, I’m Keerati (Tee)
 
 I’m a **Data Engineer** specializing in **observability**, **incident analysis**, and **AI-assisted workflows** — currently working with **PROFILE Core Banking System** on **AIX/GT.M** infrastructure at one of Thailand’s leading banks.
+=======
+
+I’m a **Data Engineer** specializing in **observability**, **incident analysis**, and **AI-assisted workflows** — currently working with **PROFILE Core Banking System** on **AIX/GT.M** infrastructure at one of Thailand’s leading banks.
 
 By day, I build scalable log pipelines, metrics collectors, and dashboards using tools like **Filebeat, Logstash, Elasticsearch, Grafana**, and **Kibana**.
 
