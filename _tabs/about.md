@@ -1,7 +1,7 @@
----
-title: About
-icon: fas fa-user
-order: 4
+--
+layout: about
+icon: fas fa-archive
+order: 3
 ---
 
 # thecoffeeandkeyboard.com – Portfolio & Lessons from the Data Trench
