@@ -1,3 +1,9 @@
+---
+title: About
+icon: fas fa-user
+order: 4
+---
+
 # thecoffeeandkeyboard.com – Portfolio & Lessons from the Data Trench
 
 Welcome to the source code of my personal website, hosted at [acodeforone.github.io](https://acodeforone.github.io) and mapped to [thecoffeeandkeyboard.com](https://thecoffeeandkeyboard.com).
